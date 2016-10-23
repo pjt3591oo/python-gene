@@ -5,4 +5,4 @@
 python g.py
 ```
 
-### class123456
+### class123
